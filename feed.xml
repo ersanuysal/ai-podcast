@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI News Podcast</title>
+    <link>https://ai-news-podcast.netlify.app</link>
+    <description>Latest AI news turned into audio for your convenience.</description>
+    <language>en-us</language>
+    <pubDate>{{new Date().toUTCString()}}</pubDate>
+    <item>
+      <title>Nvidia Says U.S. Will Restrict Sales of More of Its A.I. Chips to China</title>
+      <description>Nvidia's new export limitations signal increased regulation of AI chip technologies in US-China relations.</description>
+      <link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-18T09_17_15.mp3</link>
+      <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-18T09_17_15.mp3</guid>
+      <pubDate>Fri, 18 Apr 2025 09:17:15 GMT</pubDate>
+      <enclosure url="https://ai-news-podcast.netlify.app/audio/ElevenLabs_2025-04-18T09_17_15.mp3" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
