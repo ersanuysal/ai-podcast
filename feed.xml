@@ -12,16 +12,9 @@
       <itunes:name>Ersan Uysal</itunes:name>
       <itunes:email>ersanuysal@hotmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://ai-news-podcast.netlify.app/cover.png" />
-
-    
-    <itunes:author>Ersan Uysal</itunes:author>
-    <itunes:owner>
-      <itunes:name>Ersan Uysal</itunes:name>
-      <itunes:email>ersanuysal@hotmail.com</itunes:email>
-    </itunes:owner>
     <itunes:image href="https://ai-news-podcast.netlify.app/cover_dolphin.png" />
-    
+
+      
 
     <item>
       <title>Nvidia Says U.S. Will Restrict Sales of More of Its A.I. Chips to China</title>
