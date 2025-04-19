@@ -34,5 +34,14 @@
       <pubDate>Fri, 19 Apr 2025 09:17:15 GMT</pubDate>
       <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-17T01_06_13.mp3" type="audio/mpeg"/>
     </item>
+    <item>
+      <title>Gemini ve Whisk ile Yapay Zeka Destekli Video İçerik Üretimi"</title>
+      <description> Yapay zeka ile video üretimi hiç olmadığı kadar kolay! Bu bölümde Google Gemini ve Whisk platformlarını kullanarak fikirden videoya uzanan süreci anlatıyoruz. Senaryo yazımı, içerik planlaması ve üretim otomasyonu hakkında ipuçları seni bekliyor.
+</description>
+      <link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-17T01_07_48.mp3</link>
+      <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-17T01_07_48.mp3</guid>
+      <pubDate>Fri, 19 Apr 2025 09:17:15 GMT</pubDate>
+      <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-17T01_07_48.mp3" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
