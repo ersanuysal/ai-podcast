@@ -43,5 +43,14 @@
       <pubDate>Sat, 19 Apr 2025 14:25:00 GMT</pubDate>
       <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-17T01_07_48.mp3" type="audio/mpeg"/>
     </item>
+    <item>
+  <title>Yapay Zeka Destekli Arama Motorları - ChatGPT ve Google Gemini'nin Geleceği</title>
+  <description>Yapay zeka tabanlı arama sistemlerinin, klasik arama motorlarının yerini tamamen alıp almayacağı artık sadece bir teknoloji sorusu değil; aynı zamanda bir kullanıcı davranışı, güven ve hız meselesi. Bu bölümde, yapay zekanın bilgiye erişim alışkanlıklarımızı nasıl dönüştürdüğünü derinlemesine ele alıyoruz. ChatGPT ve Gemini gibi sistemlerin sunduğu kişiselleştirme, bağlamsal anlayış ve anında yanıt mekanizmalarının, kullanıcıların bilgiye ulaşma biçimlerini nasıl yeniden şekillendirdiğini inceliyoruz. Aynı zamanda, bu değişim rüzgârının dijital içerik üretimini ve SEO stratejilerini nasıl etkileyeceğini; yani içerik üreticileri, pazarlamacılar ve işletmeler için ne anlama geldiğini tartışıyoruz.</description>
+  <link>https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3</guid>
+  <pubDate>Sat, 20 Apr 2025 21:00:00 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3" type="audio/mpeg"/>
+</item>
+
   </channel>
 </rss>
