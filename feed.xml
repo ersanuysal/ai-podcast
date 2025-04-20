@@ -51,6 +51,16 @@
   <pubDate>Sat, 20 Apr 2025 21:00:00 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3" type="audio/mpeg"/>
 </item>
+       <item>
+  <title>Mercedes CLA: Yapay Zeka Direksiyona Geçiyor!</title>
+  <description>Mercedes’in yeni elektrikli CLA serisi, sadece şık bir otomobil değil — aynı zamanda gelişmiş bir yapay zekâ asistanı. Bu bölümde, Google, Microsoft ve OpenAI destekli teknolojilerle donatılan bu aracın, sürücüsünü nasıl anladığını, hissettiğini ve kişiselleştirilmiş bir deneyim sunduğunu keşfediyoruz. 
+    Arabalar artık yalnızca ulaşım aracı değil, akıllı yol arkadaşları!</description>
+  <link>https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3</guid>
+  <pubDate>Sun, 20 Apr 2025 21:52:36 GMT</pubDate>
+
+  <enclosure url="https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3" type="audio/mpeg"/>
+</item>
 
   </channel>
 </rss>
