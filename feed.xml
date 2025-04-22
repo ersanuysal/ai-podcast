@@ -78,5 +78,13 @@
   <pubDate>Tue, 22 Apr 2025 14:54:58 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/mp3s/ElevenLabs_2025-04-22T02_54_54.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Beynin Gizemlerini Çözen Güç: MIT McGovern'ın İnovasyonları</title>
+  <description>Bu bölümde, MIT McGovern Beyin Araştırmaları Enstitüsü'nün insan yaşamını dönüştüren yenilikçi projelerini keşfediyoruz. CRISPR gen terapisinden sinir sistemi kontrollü protezlere kadar bilimin gücüyle nasıl yeni ufuklara açıldığımızı öğrenin.</description>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-22T03_06_28.mp3" type="audio/mpeg"/>
+ <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-22T03_06_28.mp3</guid>
+  <pubDate>Tue, 22 Apr 2025 15:06:33 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-22T03_06_28.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
