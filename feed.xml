@@ -62,5 +62,13 @@
   <enclosure url="https://ai-news-podcast.netlify.app/Podcast_Gemini_vs_ChatGPT.mp3" type="audio/mpeg"/>
 </item>
 
-  </channel>
+  <item>
+  <title>McGovern Enstitüsü ile Beynin Gizemlerini Keşfetmeye Yolculuk</title>
+  <description>Bu bölümde, MIT'nin öncü beyin araştırma merkezi McGovern Enstitüsü'nün çalışmalarını keşfedeceğiz. CRISPR gen terapisi ve sinir sistemiyle kontrol edilen protezler gibi yeniliklerle hayatları nasıl dönüştürdüklerini öğrenin. Bilimsel keşiflerin geleceğimizi nasıl şekillendirdiğine dair ilham verici bir sohbet sizleri bekliyor.</description>
+  <link>https://ai-news-podcast.netlify.app/mp3s/ElevenLabs_2025-04-22T02_34_42.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/mp3s/ElevenLabs_2025-04-22T02_34_42.mp3</guid>
+  <pubDate>Tue, 22 Apr 2025 14:34:47 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/mp3s/ElevenLabs_2025-04-22T02_34_42.mp3" type="audio/mpeg"/>
+</item>
+</channel>
 </rss>
