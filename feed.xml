@@ -109,5 +109,13 @@
   <pubDate>Sat, 26 Apr 2025 11:35:10 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T11_35_06_v1.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Yeni Nesil A/B Testleri: AgentA/B ile Dijital Devrim</title>
+  <description>AgentA/B, geleneksel A/B testlerine yapay zekâ destekli bir yaklaşım sunarak zaman ve maliyet tasarrufu sağlıyor. Sanal kullanıcılar üzerinden gerçekleştirilen bu yenilikçi yöntem, web tasarımı sürecini daha hızlı ve verimli hale getiriyor.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T02_53_29.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T02_53_29.mp3</guid> 
+  <pubDate>Sat, 26 Apr 2025 14:53:33 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T02_53_29.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
