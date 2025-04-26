@@ -102,12 +102,12 @@
   <enclosure url="https://ai-news-podcast.netlify.app/Podcast_Meta.mp3" type="audio/mpeg"/>
 </item>
 <item>
-  <title>AgentA/B: Dijital Dönüşümde A/B Testlerinin Geleceği</title>
-  <description>Geleneksel A/B testlerini dönüştürmeyi hedefleyen AgentA/B sistemine mercek tutuyoruz. Yapay zekâ tabanlı simülasyonlar kullanarak nasıl daha hızlı, maliyet etkin ve geniş kapsamlı web tasarım testleri yapabileceğinizi keşfedin. AgentA/B'nin devrim niteliğindeki yaklaşımıyla tasarım döngülerinizi hızlandırın.</description>
-<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T11_31_38.mp3</link>
-  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T11_31_38.mp3</guid> 
-  <pubDate>Sat, 26 Apr 2025 11:31:43 GMT</pubDate>
-  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T11_31_38.mp3" type="audio/mpeg"/>
+  <title>Geliyor: Akıllı Telefonlarda Devrim Yaratacak Yapay Zeka Modeli Hyena Edge</title>
+  <description>Bu bölümde, Liquid AI'ın akıllı telefonlarda devrim yaratacak Hyena Edge modeli ve bunun teknoloji dünyasındaki etkilerini inceliyoruz. Büyük dil modellerini cebimize taşıyan bu yenilik, veri gizliliği ve çevrimdışı işlevsellik konularında heyecan verici gelişmeler sunuyor.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T11_35_06.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T11_35_06.mp3</guid> 
+  <pubDate>Sat, 26 Apr 2025 11:35:10 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-26T11_35_06.mp3" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
