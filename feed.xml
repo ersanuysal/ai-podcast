@@ -133,5 +133,15 @@
   <pubDate>Sun, 27 Apr 2025 15:30:51 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-27T03_30_46_v1.mp3" type="audio/mpeg"/>
 </item>
+
+    <item>
+  <title>Yapay Zeka ile Sinemada Yeni Bir Dönem: Ön-Prodüksiyonun Geleceği</title>
+  <description>Yapay zeka, film yapım süreçlerini nasıl dönüştürüyor? Bu bölümde, LTX Studio, Filmustage ve Boords gibi araçlarla senaryodan sahneye uzanan yolculuğun nasıl hızlandığını keşfediyoruz. Sinema dünyasında yaratıcılığı artıran ve prodüksiyonu kolaylaştıran yapay zeka destekli çözümleri konuşuyoruz.
+    Hem sanatın hem teknolojinin büyüsüne tanıklık etmek için bizimle kalın!</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLaps_AI_Cinema.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLaps_AI_Cinema.mp3</guid> 
+ <pubDate>Mon, 28 Apr 2025 08:13:00 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLaps_AI_Cinema.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
