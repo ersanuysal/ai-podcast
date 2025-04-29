@@ -143,5 +143,13 @@
  <pubDate>Mon, 28 Apr 2025 08:13:00 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLaps_AI_Cinema.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Neo Sinema ile Tanışın: John Gaeta'dan Sinemada Devrim</title>
+  <description>Escape.ai'nin kurucusu John Gaeta, yapay zeka destekli yeniliklerle sinema dünyasında çığır açıyor. Gaeta'nın vizyonu sayesinde, küçük yaratıcılar bile modern teknolojilerle büyük dünyalar inşa edebilecek. Bu heyecan verici gelişmelerin sinema endüstrisini nasıl şekillendirdiğini keşfedin.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-29T11_35_09.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-29T11_35_09.mp3</guid> 
+  <pubDate>Tue, 29 Apr 2025 23:35:14 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-29T11_35_09.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
