@@ -159,5 +159,13 @@
   <pubDate>Wed, 30 Apr 2025 10:27:06 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-30T10_27_01.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Yapay Zekanın Arapça Diline Getirdiği Devrim: Munsit Modeli</title>
+  <description>Bu bölümde, CNTXT AI'nin Arapça konuşma tanıma alanında devrim yaratan yeni modeli Munsit'i inceliyoruz. Munsit, hem yüksek doğruluk oranları hem de yenilikçi eğitim yöntemleriyle, geleneksel sistemleri geride bırakarak geleceğin dil teknolojisine ışık tutuyor.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_46_30.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_46_30.mp3</guid> 
+  <pubDate>Thu, 01 May 2025 11:46:35 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_46_30.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
