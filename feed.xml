@@ -152,14 +152,6 @@
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-29T11_35_09_v1.mp3" type="audio/mpeg"/>
 </item>
 <item>
-  <title>Veri Erişiminin Yeni Yolu: exa ve Claude Desktop Rehberi</title>
-  <description>Bu bölümümüzde, LinkedIn profillerine verimli bir şekilde erişmenizi sağlayacak exa-mcp-server ve Claude Desktop araçlarını inceliyoruz. Adım adım kurulum ve kullanım ipuçlarıyla, bu yenilikçi yöntemlerin projelerinizi nasıl ileri taşıyabileceğini keşfedin.</description>
-<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-30T10_27_01.mp3</link>
-  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-30T10_27_01.mp3</guid> 
-  <pubDate>Wed, 30 Apr 2025 10:27:06 GMT</pubDate>
-  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-30T10_27_01.mp3" type="audio/mpeg"/>
-</item>
-<item>
   <title>Dappier AI ve OpenAI ile Akıllı Sohbetler Nasıl İnşa Edilir?</title>
   <description>Dappier AI'nin gerçek zamanlı arama ve öneri araçlarını OpenAI Chat API ile entegrasyonunu keşfedin. Google Colab içinde kurulumdan, dinamik veri taleplerine hazır bir sohbet zinciri oluşturma sürecine kadar tüm adımları öğrenin. Teknolojinin gücünü kullanarak, kişiselleştirilmiş sohbet deneyimlerinizi nasıl bir üst seviyeye taşıyabileceğinizi inceleyin.</description>
 <link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_49_09.mp3</link>
