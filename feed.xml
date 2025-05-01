@@ -160,12 +160,12 @@
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-04-30T10_27_01.mp3" type="audio/mpeg"/>
 </item>
 <item>
-  <title>Yapay Zekanın Arapça Diline Getirdiği Devrim: Munsit Modeli</title>
-  <description>Bu bölümde, CNTXT AI'nin Arapça konuşma tanıma alanında devrim yaratan yeni modeli Munsit'i inceliyoruz. Munsit, hem yüksek doğruluk oranları hem de yenilikçi eğitim yöntemleriyle, geleneksel sistemleri geride bırakarak geleceğin dil teknolojisine ışık tutuyor.</description>
-<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_46_30.mp3</link>
-  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_46_30.mp3</guid> 
-  <pubDate>Thu, 01 May 2025 11:46:35 GMT</pubDate>
-  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_46_30.mp3" type="audio/mpeg"/>
+  <title>Dappier AI ve OpenAI ile Akıllı Sohbetler Nasıl İnşa Edilir?</title>
+  <description>Dappier AI'nin gerçek zamanlı arama ve öneri araçlarını OpenAI Chat API ile entegrasyonunu keşfedin. Google Colab içinde kurulumdan, dinamik veri taleplerine hazır bir sohbet zinciri oluşturma sürecine kadar tüm adımları öğrenin. Teknolojinin gücünü kullanarak, kişiselleştirilmiş sohbet deneyimlerinizi nasıl bir üst seviyeye taşıyabileceğinizi inceleyin.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_49_09.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_49_09.mp3</guid> 
+  <pubDate>Thu, 01 May 2025 11:49:13 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T11_49_09.mp3" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
