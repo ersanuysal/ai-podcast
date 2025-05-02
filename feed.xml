@@ -159,5 +159,15 @@
   <pubDate>Thu, 01 May 2025 12:45:05 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-01T12_44_59_v1.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Claude ve GPT Arasında Gizli Maliyet Farkları: Tokenizasyonun Gerçek Bedeli</title>
+  <description>Bu bölümde, Claude ve GPT modelleri arasında neden %20-30 maliyet farkı olabileceğini tartışıyoruz. Tokenizasyon farklarının işlem gücü üzerindeki etkisini, kurum içi yapay zeka uygulamalarındaki gizli maliyetleri ve uzun vadeli toplam sahip olma maliyetini detaylandırıyoruz. Yapay zeka yatırımlarında göz önünde bulundurulması gereken teknik ve operasyonel faktörlere ışık tutuyoruz.</description>
+  <link>https://ai-news-podcast.netlify.app/TokenMaliyet_CloudandGPT.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/TokenMaliyet_CloudandGPT.mp3</guid> 
+  <pubDate>Thu, 02 May 2025 07:45:00 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/TokenMaliyet_CloudandGPT.mp3" type="audio/mpeg"/>
+</item>
+
+    
 </channel>
 </rss>
