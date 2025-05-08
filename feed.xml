@@ -175,6 +175,13 @@
   <pubDate>Tue, 06 May 2025 09:58:00 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-06.mp3" type="audio/mpeg"/>
 </item>
-  
+     <item>
+  <title>Claude Web Search API: Google’ın Rakibi mi Geliyor?</title>
+  <description>Bu bölümde, Anthropic tarafından geliştirilen ve bilgiye erişimde devrim yaratması beklenen Claude Web Search API’yi konuşuyoruz. Google'ın tahtını sarsabilecek bu yeni teknolojinin ne sunduğunu, nasıl çalıştığını ve geleceği nasıl şekillendireceğini birlikte keşfediyoruz.</description>
+  <link>https://ai-news-podcast.netlify.app/CloudAPI_Ersan_2025-05-08.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/CloudAPI_Ersan_2025-05-08.mp3</guid> 
+  <pubDate>Thu, 09 May 2025 21:00:00 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/CloudAPI_Ersan_2025-05-08.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
