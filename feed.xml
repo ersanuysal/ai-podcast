@@ -191,5 +191,13 @@
   <pubDate>Sat, 10 May 2025 07:45:00 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/Podcast_SoundAI_FormatA1_2025-05-10.mp3" type="audio/mpeg"/>
 </item>
+     <item>
+  <title>Pippit AI ile İçerik Üretimini Otomatikleştir: Dakikalar İçinde Video, Görsel ve Daha Fazlası</title>
+  <description> Bu bölümde, içerik üretimini dönüştüren yapay zeka aracı Pippit AI’ı mercek altına alıyoruz. E-ticaret yapanlardan sosyal medya içerik üreticilerine kadar herkesin işini kolaylaştıracak bu platformla, metinleri videolara, görsellere ve posterlere dönüştürebilir, içeriklerinize müzik ve seslendirme ekleyebilirsiniz. Ayrıca HeyGen, Fliki ve Synthesia gibi alternatiflerle karşılaştırarak sizin için en uygun aracı bulmanıza da yardımcı oluyoruz.</description>
+  <link>https://ai-news-podcast.netlify.app/A1Format_PippitAI_Episode.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/A1Format_PippitAI_Episode.mp3</guid> 
+  <pubDate>Mon, 12 May 2025 18:45:00 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/A1Format_PippitAI_Episode.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
