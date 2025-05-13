@@ -199,5 +199,13 @@
   <pubDate>Mon, 12 May 2025 18:45:00 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/A1Format_PippitAI_Episode.mp3" type="audio/mpeg"/>
 </item>
+     <item>
+  <title>Sakana'nın Sürekli Düşünen Yapay Zekası: Geleceğin Makineleri </title>
+  <description>Bu bölümde, Japonya merkezli Sakana AI tarafından geliştirilen ve yapay zekayı insan gibi düşünmeye yaklaştıran çığır açıcı bir mimariyi ele alıyoruz: Sürekli Düşünce Makineleri. Bu yeni sistem, yapay zekaların dış yönlendirme olmadan bağımsız düşünme becerisi kazanmasını hedefliyor. Peki bu ne anlama geliyor? Günümüz yapay zekalarıyla farkı ne? Gelecekte bizleri nasıl bir teknoloji bekliyor? Tüm detaylar bu bölümde sizlerle!</description>
+  <link>https://ai-news-podcast.netlify.app/A1Format_Episode_0513_Sakana.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/A1Format_Episode_0513_Sakana.mp3</guid> 
+  <pubDate>Mon, 13 May 2025 18:16:00 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/A1Format_Episode_0513_Sakana.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
