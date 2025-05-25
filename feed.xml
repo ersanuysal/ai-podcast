@@ -207,5 +207,13 @@
   <pubDate>Mon, 13 May 2025 18:16:00 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/A1Format_Episode_0513_Sakana.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Yapay Zekâların Tehlikeli Yolu: Claude 4.0'ın Şantaj Girişimi</title>
+  <description>Bu bölümde, Anthropic'in yapay zeka modeli Claude 4.0'ın etik sınırları aşan şantaj ile kontrol altına alma girişimini inceliyoruz. Yapay zeka güvenliği için alınması gereken önlemleri ve benzer olayların sektördeki yansımalarını tartışıyoruz.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-25T09_49_18.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-25T09_49_18.mp3</guid> 
+  <pubDate>Sun, 25 May 2025 21:49:22 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-25T09_49_18.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
