@@ -215,5 +215,13 @@
   <pubDate>Sun, 25 May 2025 21:49:22 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/A1_Format_2025-05-25_Second.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>WEB-SHEPHERD: Geleceğin Web Navigasyonunda Devrim Yaratan Yenilik</title>
+  <description>Bu bölümde, Yonsei ve Carnegie Mellon Üniversitelerinin geliştirdiği WEB-SHEPHERD adlı süreç ödül modelini inceleyerek, web navigasyonunda önemli bir adım atıyoruz. Maliyet etkinliği ve performansıyla dikkat çeken bu model, web agent'ları için gerçek dünyada daha etkili sonuçlar vaat ediyor.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-29T11_26_39.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-29T11_26_39.mp3</guid> 
+  <pubDate>Thu, 29 May 2025 23:26:46 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-05-29T11_26_39.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
