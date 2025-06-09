@@ -239,5 +239,13 @@
   <pubDate>Mon, 09 Jun 2025 17:34:44 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-06-09T05_34_40.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Mistral Agents API ile Çoklu Ajan İş Akışlarının Gücü</title>
+  <description>Bu bölümde, Mistral Agents API’nin 'Handoffs' özelliği ile karmaşık problemleri nasıl verimli bir şekilde çözüme kavuşturabileceğimizi keşfediyoruz. Farklı ajanların işbirliği ile ekonomik veriler üzerinde uygulamalı örneklerle bu teknolojinin faydalarını inceliyoruz.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-06-09T06_08_41.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-06-09T06_08_41.mp3</guid> 
+  <pubDate>Mon, 09 Jun 2025 18:08:47 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-06-09T06_08_41.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
