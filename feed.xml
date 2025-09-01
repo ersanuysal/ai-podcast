@@ -247,5 +247,13 @@
   <pubDate>Mon, 09 Jun 2025 18:08:47 GMT</pubDate>
   <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-06-09T06_08_41.mp3" type="audio/mpeg"/>
 </item>
+<item>
+  <title>Step-Audio 2 Mini: Sesli Yapay Zekada Yeni Dönem</title>
+  <description>Bugünkü bölümümüzde StepFun AI ekibinin yeni sesli yapay zeka modeli Step-Audio 2 Mini'yi keşfediyoruz. Bu açık kaynaklı ve çok modlu model, konuşmaları yalnızca metne dökmekle kalmıyor, duygusal tonları da algılayabiliyor. Gündelik yaşama etkilerini ve sunduğu yenilikleri birlikte inceleyelim.</description>
+<link>https://ai-news-podcast.netlify.app/ElevenLabs_2025-09-01T09_44_10.mp3</link>
+  <guid>https://ai-news-podcast.netlify.app/ElevenLabs_2025-09-01T09_44_10.mp3</guid> 
+  <pubDate>Mon, 01 Sep 2025 21:44:13 GMT</pubDate>
+  <enclosure url="https://ai-news-podcast.netlify.app/ElevenLabs_2025-09-01T09_44_10.mp3" type="audio/mpeg"/>
+</item>
 </channel>
 </rss>
